@@ -1,0 +1,22 @@
+.details {
+  margin-bottom: 15px;
+}
+
+.summary {
+  color: #0a0a0a;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.channel,
+.published {
+  color: #464747;
+  margin-bottom: 3px;
+  margin-top: 4px;
+  font-size: 13px;
+}
+
+.channel>span,
+.published>span {
+  font-weight: 700;
+}
